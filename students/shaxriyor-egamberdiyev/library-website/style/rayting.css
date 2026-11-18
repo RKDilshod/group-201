@@ -1,0 +1,38 @@
+.full-b{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.chek{
+    padding: 0 80px;
+}
+.r{
+    color: rgb(160, 109, 6);
+    font-weight: bolder;
+    margin-top: 40px;
+    font-size: 12px;
+}
+
+.kitob{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.shakl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inkitob{
+    width: 20px;
+    height: 40px;
+    background-color: black;
+}
+.uzun{
+    background-color: aqua;
+    height: 1px;
+    width: 7px;
+}
